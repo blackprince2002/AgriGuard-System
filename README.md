@@ -12,6 +12,9 @@ This component uses multiple soil moisture sensors to detect the moisture levels
 ### 2. Motion Detection System
 This component uses a PIR sensor to detect motion near the fence. If motion is detected, an alert is triggered, and an SMS message is sent using a GSM module.
 
+![Complete System](images/Complete system.jpg)
+
+
 ## Installation Instructions
 
 ### Hardware Required
