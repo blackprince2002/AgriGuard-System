@@ -29,14 +29,6 @@ This component uses a PIR sensor to detect motion near the fence. If motion is d
 - Arduino IDE
 - SoftwareSerial library (usually included with Arduino IDE)
 
-## Circuit Diagrams
-
-### Soil Moisture Monitoring and Automatic Watering System
-![Soil Moisture Schematic](images/soil_moisture_schematic.png)
-
-### Motion Detection System
-![Motion Detection Schematic](images/motion_detection_schematic.png)
-
 ## Usage Instructions
 
 ### 1. Soil Moisture Monitoring and Automatic Watering System
